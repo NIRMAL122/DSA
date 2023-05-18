@@ -1,0 +1,15 @@
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\bin\Debug\net6.0\BigO.exe
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\bin\Debug\net6.0\BigO.deps.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\bin\Debug\net6.0\BigO.runtimeconfig.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\bin\Debug\net6.0\BigO.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\bin\Debug\net6.0\BigO.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\BigO.csproj.AssemblyReference.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\BigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\BigO.AssemblyInfoInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\BigO.AssemblyInfo.cs
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\BigO.csproj.CoreCompileInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\BigO.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\refint\BigO.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\BigO.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\BigO.genruntimeconfig.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\BigO\BigO\BigO\obj\Debug\net6.0\ref\BigO.dll
