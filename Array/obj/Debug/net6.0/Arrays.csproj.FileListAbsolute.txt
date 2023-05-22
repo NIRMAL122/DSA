@@ -1,0 +1,15 @@
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\bin\Debug\net6.0\Arrays.exe
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\bin\Debug\net6.0\Arrays.deps.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\bin\Debug\net6.0\Arrays.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\bin\Debug\net6.0\Arrays.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\Arrays.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\refint\Arrays.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\Arrays.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Array\obj\Debug\net6.0\ref\Arrays.dll

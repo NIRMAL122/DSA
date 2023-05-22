@@ -46,6 +46,12 @@ namespace BigO
                 }
 
                 pairs[arr[i]] = i;
+
+                //Console.WriteLine("here is dictory : ");
+                //foreach(KeyValuePair<int,int> kvp in pairs)
+                //{
+                //    Console.WriteLine(kvp.Key+ ": " + kvp.Value);
+                //}
             }
         }
     }
