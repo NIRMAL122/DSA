@@ -51,8 +51,20 @@
             //int result=obj.MaximumSubarrayFun(arr);
             //Console.WriteLine(result);
 
-            LongestWord obj = new LongestWord();
-            obj.longestWrodFun("singh Nirmal happss");
+            //LongestWord obj = new LongestWord();
+            //obj.longestWrodFun("singh Nirmal happss");
+
+            //NumberOfGoodPairs obj= new NumberOfGoodPairs();
+            //int[] arr = { 1,1,1,1,2,3,3,3,4,5 };
+            //obj.NumIdenticalPairs(arr);
+
+            //KidWithGreatestNumberOfCandies obj=new KidWithGreatestNumberOfCandies();
+            //int[] arr = { 4,3,8,5,3 };
+            //obj.KidsWithCandiesEff(arr, 3);
+
+            LeftAndRigthSumDifferences obj=new LeftAndRigthSumDifferences();
+            int[] arr = { 10, 4, 8, 3 };
+            obj.LeftRightDifferenceEff(arr);
         }
     }
 }

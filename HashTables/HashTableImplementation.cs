@@ -68,5 +68,21 @@ namespace HashTables
             }
             return 0;
         }
+
+        public List<string> keys()
+        {
+            List<string> result = new List<string>();
+            for (int i = 0; i < this.data.Length; i++)
+            {
+                if (this.data[i] != null)
+                {
+                    for (int j = 0; j < length; j++)
+                    {
+                        result.Add(this.data[i][j].key);
+                    }
+                }
+            }
+            return result;
+        }
     }
 }
