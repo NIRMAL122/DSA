@@ -14,9 +14,29 @@
             //}
 
 
-            GoogleQue obj= new GoogleQue();
-            int[] arr = { 2, 3, 5, 2, 5, 6, 3 };
-            obj.FirstRecurringCharacter(arr);
+            //GoogleQue obj= new GoogleQue();
+            //int[] arr = { 1,1,2,2 };
+            //int result=obj.FirstRecurringCharacterNestedLoop(arr);
+            //Console.WriteLine(result);
+
+
+            //JewelsAndStones obj=new JewelsAndStones();
+            //int result=obj.NumJewelsInStones("aA", "aAAbbbb");
+            //Console.WriteLine(result);
+
+
+            //HowManyNumbersAreSmallerThantheCurrentNumber obj= new HowManyNumbersAreSmallerThantheCurrentNumber();
+            //int[] arr = { 7,7,7,7 };
+            //obj.SmallerNumbersThanCurrent(arr);
+
+
+            //DecodetheMessage obj=new DecodetheMessage();
+            //obj.DecodeMessage("the quick brown fox jumps over the lazy dog", "vkbs bs t suepuv");
+            //obj.DecodeMessage("eljuxhpwnyrdgtqkviszcfmabo", "zwx hnfx lqantp mnoeius ycgk vcnjrdb");
+
+
+            BuddyStrings obj= new BuddyStrings();
+            obj.BuddyStringsFun("abac", "abad");
 
 
         }
