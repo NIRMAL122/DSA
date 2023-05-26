@@ -1,0 +1,60 @@
+---Middle of the Linked List---
+Given the head of a singly linked list, return the middle node of the linked list.
+If there are two middle nodes, return the second middle node.
+
+--Solution--
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     public int val;
+ *     public ListNode next;
+ *     public ListNode(int val=0, ListNode next=null) {
+ *         this.val = val;
+ *         this.next = next;
+ *     }
+ * }
+ */
+public class Solution {
+    public ListNode MiddleNode(ListNode head) 
+    {
+        int length=0;
+        ListNode current= head;
+        while(current!=null){
+            length++;
+            current=current.next;
+        }
+
+        int mid= length/2;
+        int i=0;
+        ListNode result=head;
+        while(i<mid){
+            result=result.next;
+            i++;
+        }
+        return result;
+    }
+}
+
+--better solution--
+Here's the algorithm to solve this problem:
+
+Initialize two pointers, slow and fast, to the head node.
+Traverse the linked list with the fast pointer, moving two steps at a time, and the slow pointer, 
+moving one step at a time, until the fast pointer reaches the end of the list.
+Return the node pointed to by the slow pointer.
+
+public class Solution {
+    public ListNode MiddleNode(ListNode head) 
+    {
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        return slow;
+    }
+}
