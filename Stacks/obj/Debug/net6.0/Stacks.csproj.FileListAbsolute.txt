@@ -1,0 +1,15 @@
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\bin\Debug\net6.0\Stacks.exe
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\bin\Debug\net6.0\Stacks.deps.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\bin\Debug\net6.0\Stacks.runtimeconfig.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\bin\Debug\net6.0\Stacks.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\bin\Debug\net6.0\Stacks.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\Stacks.csproj.AssemblyReference.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfoInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfo.cs
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\Stacks.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\refint\Stacks.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\Stacks.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\Stacks.genruntimeconfig.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Stacks\obj\Debug\net6.0\ref\Stacks.dll
