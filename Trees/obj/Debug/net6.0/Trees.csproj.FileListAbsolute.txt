@@ -1,0 +1,15 @@
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\bin\Debug\net6.0\Trees.exe
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\bin\Debug\net6.0\Trees.deps.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\bin\Debug\net6.0\Trees.runtimeconfig.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\bin\Debug\net6.0\Trees.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\bin\Debug\net6.0\Trees.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\Trees.csproj.AssemblyReference.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\Trees.AssemblyInfoInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\Trees.AssemblyInfo.cs
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\Trees.csproj.CoreCompileInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\Trees.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\refint\Trees.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\Trees.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\Trees.genruntimeconfig.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Trees\obj\Debug\net6.0\ref\Trees.dll

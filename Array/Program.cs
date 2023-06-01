@@ -62,9 +62,19 @@
             //int[] arr = { 4,3,8,5,3 };
             //obj.KidsWithCandiesEff(arr, 3);
 
-            LeftAndRigthSumDifferences obj=new LeftAndRigthSumDifferences();
-            int[] arr = { 10, 4, 8, 3 };
-            obj.LeftRightDifferenceEff(arr);
+            //LeftAndRigthSumDifferences obj=new LeftAndRigthSumDifferences();
+            //int[] arr = { 10, 4, 8, 3 };
+            //obj.LeftRightDifferenceEff(arr);
+
+            ThreeSum obj= new ThreeSum();
+            int[] arr = { -1, 0, 1, 2, -1, -4 };
+            //obj.ThreeSumFun(arr);
+            IList<IList<int>> triplets = obj.ThreeSumEff(arr);
+
+            foreach (List<int> triplet in triplets)
+            {
+                Console.WriteLine(string.Join(", ", triplet));
+            }
         }
     }
 }
