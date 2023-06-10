@@ -42,6 +42,8 @@ namespace Graphs
                 Console.WriteLine();
             }
         }
+
+        
         public void showConnections()
         {
             foreach(var item  in graph)
