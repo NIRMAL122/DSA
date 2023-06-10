@@ -8,6 +8,7 @@ namespace Recursion
 {
     public class Factorial
     {
+        // O(n)
         public int FactorialIterative(int num)
         {
             int ans = 1;
@@ -18,6 +19,7 @@ namespace Recursion
             return ans;
         }
 
+        // O(n)
         public int FactorialRecursive(int num)
         {
             if (num == 2){ return 2; }
