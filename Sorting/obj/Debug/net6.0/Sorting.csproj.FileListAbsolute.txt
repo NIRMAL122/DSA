@@ -1,0 +1,15 @@
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\bin\Debug\net6.0\Sorting.exe
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\bin\Debug\net6.0\Sorting.deps.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\bin\Debug\net6.0\Sorting.runtimeconfig.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\bin\Debug\net6.0\Sorting.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\bin\Debug\net6.0\Sorting.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\Sorting.csproj.AssemblyReference.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfoInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfo.cs
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\Sorting.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\refint\Sorting.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\Sorting.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\Sorting.genruntimeconfig.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Sorting\obj\Debug\net6.0\ref\Sorting.dll
