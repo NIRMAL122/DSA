@@ -8,7 +8,7 @@
             //SortFunction obj= new SortFunction();
             //obj.SortFun();
 
-            int[] nums = { 1, 5, 4, 23, 0, 1, 23, 11, 7, 456, 234, 2, 3 };
+            int[] nums = { 5,1,3,2,4 };
 
             //BubbleSort obj = new BubbleSort();
             //obj.BubbleSortFun(nums);
@@ -19,8 +19,11 @@
             //InsertionSort obj= new InsertionSort();
             //obj.InsertionSortFun(nums);
 
-            MergeSort obj = new MergeSort();
-            obj.MergeSortFun(nums);
+            //MergeSort obj = new MergeSort();
+            //obj.MergeSortFun(nums);
+
+            QuickSort obj= new QuickSort();
+            obj.QuickSortFun(nums);
         }
     }
 }

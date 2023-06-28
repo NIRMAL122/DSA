@@ -30,7 +30,7 @@ namespace Sorting
             foreach(int item in array)
             {
                 Console.Write(item+", ");
-                
+                 
             }
         }
     }
