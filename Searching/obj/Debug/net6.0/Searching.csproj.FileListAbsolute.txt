@@ -1,0 +1,15 @@
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\bin\Debug\net6.0\Searching.exe
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\bin\Debug\net6.0\Searching.deps.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\bin\Debug\net6.0\Searching.runtimeconfig.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\bin\Debug\net6.0\Searching.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\bin\Debug\net6.0\Searching.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\Searching.csproj.AssemblyReference.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\Searching.AssemblyInfoInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\Searching.AssemblyInfo.cs
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\Searching.csproj.CoreCompileInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\Searching.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\refint\Searching.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\Searching.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\Searching.genruntimeconfig.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\Searching\obj\Debug\net6.0\ref\Searching.dll
