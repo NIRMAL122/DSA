@@ -42,6 +42,27 @@ namespace Dynamic_Programming
             return cache[n];
         }
 
+
+        //bottom-up approach for fibonacci
+        public int Fib2(int n)
+        {
+            List<int> list = new List<int>();
+            list.Add(0);
+            list.Add(1);
+
+            for(int i = 2; i <= n; i++)
+            {
+                list.Add(list[i - 2] + list[i-1]);
+            }
+
+            //foreach(int item in list)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            return list[n];
+        }
+
         public void printCalculations()
         {
             Console.WriteLine("calculations: " + calculations);

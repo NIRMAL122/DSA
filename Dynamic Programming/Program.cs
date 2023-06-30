@@ -12,10 +12,22 @@
             //Console.WriteLine("Run3: "+obj.AddTo47(5));
 
 
-            FibonacciDynamicProgramming obj= new FibonacciDynamicProgramming();
-            Console.WriteLine("Dynamic -> " + obj.FibDP(1000));
-            //Console.WriteLine("Simple  -> "+obj.Fib(40));
-            obj.printCalculations();
+            FibonacciDynamicProgramming obj = new FibonacciDynamicProgramming();
+            //Console.WriteLine("Simple  -> " + obj.Fib(40));
+            //Console.WriteLine("Dynamic -> " + obj.FibDP(5));
+            Console.WriteLine("bottomUp  -> " + obj.Fib2(5));
+            //obj.printCalculations();
+
+
+            //int[] arr = { 10,5,7,20,1,3,40};
+            //HouseRobber obj = new HouseRobber();
+            //obj.Rob(arr);
+
+            //BestTimeToBuyAndSellStock obj = new BestTimeToBuyAndSellStock();
+            //obj.MaxProfit(arr);
+
+            //ClimbingStairs obj= new ClimbingStairs();
+            //obj.ClimbStairs(30);
 
         }
     }
