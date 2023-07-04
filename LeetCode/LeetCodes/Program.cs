@@ -18,8 +18,22 @@
             //LongestPalindromicSubstring obj = new LongestPalindromicSubstring();
             //Console.WriteLine(obj.LongestPalindrome("ccc"));
 
-            LongestSubstringWithoutRepeatingCharacters obj = new LongestSubstringWithoutRepeatingCharacters();
-            obj.LengthOfLongestSubstring("abca");
+            //LongestSubstringWithoutRepeatingCharacters obj = new LongestSubstringWithoutRepeatingCharacters();
+            //obj.LengthOfLongestSubstring("abca");
+
+            //MergeIntervals obj = new MergeIntervals();
+            //int[][] arr = new int[][]
+            //{
+            //  new int[]{1,3 },
+            //  new int[]{8,10 },
+            //  new int[]{2,6 },
+            //  new int[]{15,18 }
+            //};
+            //obj.Merge(arr);
+
+
+            ExperimentArea obj = new ExperimentArea();
+            obj.test();
 
 
 
