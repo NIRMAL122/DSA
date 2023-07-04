@@ -35,10 +35,14 @@
             //ExperimentArea obj = new ExperimentArea();
             //obj.test();
 
-            string s = "catsandog";
-            IList<string> wordDict = new List<string> { "cats", "dog", "sand", "and", "cat","o" };
-            WordBreak obj = new WordBreak();
-            Console.WriteLine(obj.WordBreakFun(s, wordDict));
+            //string s = "catsandog";
+            //IList<string> wordDict = new List<string> { "cats", "dog", "sand", "and", "cat","o" };
+            //WordBreak obj = new WordBreak();
+            //Console.WriteLine(obj.WordBreakFun(s, wordDict));
+
+            NextPermutation obj = new NextPermutation();
+            int[] arr = { 1, 2, 3 };
+            obj.NextPermutationFun(arr);
 
 
 
