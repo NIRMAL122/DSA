@@ -1,0 +1,15 @@
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\bin\Debug\net6.0\LeetCodes.exe
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\bin\Debug\net6.0\LeetCodes.deps.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\bin\Debug\net6.0\LeetCodes.runtimeconfig.json
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\bin\Debug\net6.0\LeetCodes.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\bin\Debug\net6.0\LeetCodes.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\LeetCodes.csproj.AssemblyReference.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\LeetCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\LeetCodes.AssemblyInfoInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\LeetCodes.AssemblyInfo.cs
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\LeetCodes.csproj.CoreCompileInputs.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\LeetCodes.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\refint\LeetCodes.dll
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\LeetCodes.pdb
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\LeetCodes.genruntimeconfig.cache
+C:\Nirmal's PC\Visual_Studio_codes\DSA\DSA\LeetCode\LeetCodes\obj\Debug\net6.0\ref\LeetCodes.dll
