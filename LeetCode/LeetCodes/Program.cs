@@ -32,8 +32,13 @@
             //obj.Merge(arr);
 
 
-            ExperimentArea obj = new ExperimentArea();
-            obj.test();
+            //ExperimentArea obj = new ExperimentArea();
+            //obj.test();
+
+            string s = "catsandog";
+            IList<string> wordDict = new List<string> { "cats", "dog", "sand", "and", "cat","o" };
+            WordBreak obj = new WordBreak();
+            Console.WriteLine(obj.WordBreakFun(s, wordDict));
 
 
 
