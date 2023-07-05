@@ -41,7 +41,7 @@
             //Console.WriteLine(obj.WordBreakFun(s, wordDict));
 
             NextPermutation obj = new NextPermutation();
-            int[] arr = { 1, 2, 3 };
+            int[] arr = { 5,1,1 };
             obj.NextPermutationFun(arr);
 
 

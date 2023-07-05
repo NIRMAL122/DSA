@@ -11,7 +11,7 @@ namespace LeetCodes
         public void NextPermutationFun(int[] nums)
         {
             int i = nums.Length - 2;
-            while(i>=0 && nums[i] > nums[i+1])
+            while(i>=0 && nums[i] >= nums[i+1])
             {
                 i--;
             }
