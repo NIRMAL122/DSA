@@ -40,9 +40,13 @@
             //WordBreak obj = new WordBreak();
             //Console.WriteLine(obj.WordBreakFun(s, wordDict));
 
-            NextPermutation obj = new NextPermutation();
-            int[] arr = { 5,1,1 };
-            obj.NextPermutationFun(arr);
+            //NextPermutation obj = new NextPermutation();
+            //int[] arr = { 5,1,1 };
+            //obj.NextPermutationFun(arr);
+
+            LongestSubarrayof1AfterDeletingOneElement obj = new LongestSubarrayof1AfterDeletingOneElement();
+            int[] arr = { 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1,1,1};
+            obj.LongestSubarray(arr);
 
 
 
