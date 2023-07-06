@@ -44,9 +44,13 @@
             //int[] arr = { 5,1,1 };
             //obj.NextPermutationFun(arr);
 
-            LongestSubarrayof1AfterDeletingOneElement obj = new LongestSubarrayof1AfterDeletingOneElement();
-            int[] arr = { 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1,1,1};
-            obj.LongestSubarray(arr);
+            //LongestSubarrayof1AfterDeletingOneElement obj = new LongestSubarrayof1AfterDeletingOneElement();
+            //int[] arr = { 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1,1,1};
+            //obj.LongestSubarray(arr);
+
+            MinimumSizeSubarraySum obj= new MinimumSizeSubarraySum();
+            int[] arr = { 1, 2, 3, 4, 5,7 };
+            obj.MinSubArrayLen(15, arr);
 
 
 
