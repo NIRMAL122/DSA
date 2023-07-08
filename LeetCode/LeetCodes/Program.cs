@@ -48,10 +48,17 @@
             //int[] arr = { 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1,1,1};
             //obj.LongestSubarray(arr);
 
-            MinimumSizeSubarraySum obj= new MinimumSizeSubarraySum();
-            int[] arr = { 1, 2, 3, 4, 5,7 };
-            obj.MinSubArrayLen(15, arr);
+            //MinimumSizeSubarraySum obj= new MinimumSizeSubarraySum();
+            //int[] arr = { 1, 2, 3, 4, 5,7 };
+            //obj.MinSubArrayLen(15, arr);
 
+            //MaximizetheConfusionofanExam obj = new MaximizetheConfusionofanExam();
+            //obj.MaxConsecutiveAnswers("TTTFTFTTFTTTT",2);
+
+
+            PutMarblesInBags obj= new PutMarblesInBags();
+            int[] arr = { 46, 37, 46, 17, 40, 50, 54, 11, 1, 25, 43, 21, 31, 29, 58, 49, 73, 54, 5, 52, 73, 54, 6, 22, 58, 9, 34, 21, 58, 68, 63 };
+            obj.MinimumDifference(arr,30);
 
 
 
