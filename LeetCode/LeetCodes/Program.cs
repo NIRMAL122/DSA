@@ -56,9 +56,12 @@
             //obj.MaxConsecutiveAnswers("TTTFTFTTFTTTT",2);
 
 
-            PutMarblesInBags obj= new PutMarblesInBags();
-            int[] arr = { 46, 37, 46, 17, 40, 50, 54, 11, 1, 25, 43, 21, 31, 29, 58, 49, 73, 54, 5, 52, 73, 54, 6, 22, 58, 9, 34, 21, 58, 68, 63 };
-            obj.MinimumDifference(arr,30);
+            //PutMarblesInBags obj= new PutMarblesInBags();
+            //int[] arr = { 46, 37, 46, 17, 40, 50, 54, 11, 1, 25, 43, 21, 31, 29, 58, 49, 73, 54, 5, 52, 73, 54, 6, 22, 58, 9, 34, 21, 58, 68, 63 };
+            //obj.MinimumDifference(arr,30);
+
+            SubstringWithLargestVariance obj= new SubstringWithLargestVariance();
+            Console.WriteLine(obj.LargestVariance("aababbb"));
 
 
 
