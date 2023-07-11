@@ -63,8 +63,12 @@
             //SubstringWithLargestVariance obj= new SubstringWithLargestVariance();
             //Console.WriteLine(obj.LargestVariance("aababbb"));
 
-            ValidAnagram obj= new ValidAnagram();
-            obj.IsAnagram("car", "rac");
+            //ValidAnagram obj= new ValidAnagram();
+            //obj.IsAnagram("car", "rac");
+
+            GroupAnagrams obj= new GroupAnagrams();
+            string[] arr = { "eat", "tea", "tan", "ate", "nat", "bat" };
+            obj.GroupAnagramsFun(arr);
 
 
 
