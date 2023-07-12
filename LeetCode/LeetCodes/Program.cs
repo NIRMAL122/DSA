@@ -1,4 +1,6 @@
-﻿namespace LeetCodes
+﻿using System.Collections;
+
+namespace LeetCodes
 {
     internal class Program
     {
@@ -66,10 +68,31 @@
             //ValidAnagram obj= new ValidAnagram();
             //obj.IsAnagram("car", "rac");
 
-            GroupAnagrams obj= new GroupAnagrams();
-            string[] arr = { "eat", "tea", "tan", "ate", "nat", "bat" };
-            obj.GroupAnagramsFun(arr);
+            //GroupAnagrams obj= new GroupAnagrams();
+            //string[] arr = { "eat", "tea", "tan", "ate", "nat", "bat" };
+            //obj.GroupAnagramsFun(arr);
 
+            //FindEventualSafeStates obj = new FindEventualSafeStates();
+            //int[][] graph = new int[][]
+            //{
+            //    new int[] { 1, 2 },
+            //    new int[] { 2, 3 },
+            //    new int[] { 5 },
+            //    new int[] { 0 },
+            //    new int[] { 5 },
+            //    new int[] { },
+            //    new int[] { }
+            //};
+            //IList<int> result= obj.EventualSafeNodes(graph);
+            //foreach(int item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+            TopKFrequentElements obj= new TopKFrequentElements();
+            int[] arr = { 1, 1, 1, 2, 2, 3 };
+            obj.TopKFrequent(arr, 2);
 
 
         }
