@@ -17,6 +17,8 @@ namespace LeetCodes
 
             //Console.WriteLine(graph.Length);
 
+            //topological sort (BFS)
+
             for (var i = 0; i < graph.Length; i++)
             {
                 foreach (var g in graph[i])

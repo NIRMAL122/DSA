@@ -90,9 +90,30 @@ namespace LeetCodes
             //}
 
 
-            TopKFrequentElements obj= new TopKFrequentElements();
-            int[] arr = { 1, 1, 1, 2, 2, 3 };
-            obj.TopKFrequent(arr, 2);
+            //TopKFrequentElements obj= new TopKFrequentElements();
+            //int[] arr = { 1, 1, 1, 2, 2, 3 };
+            //obj.TopKFrequent(arr, 2);
+
+
+            //ProductofArrayExceptSelf obj = new ProductofArrayExceptSelf();
+            //int[] arr = {1,2,3,4};
+            //obj.ProductExceptSelf(arr);
+
+
+            //LongestConsecutiveSequence obj= new LongestConsecutiveSequence();
+            //int[] arr = { 0, 3, 7, 2, 5, 8, 4, 6, 0, 1 };
+            //obj.longestConsecutive(arr);
+
+            CourseSchedule obj = new CourseSchedule();
+            int[][] prerequisite = new int[][]
+            {
+                new int[] { 0, 1 },
+                new int[] { 0, 2 },
+                new int[] { 1,3 },
+                new int[] { 1,4 },
+                new int[] { 3,4 }
+            };
+            Console.WriteLine(obj.CanFinish(5, prerequisite));
 
 
         }
