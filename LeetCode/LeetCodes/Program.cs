@@ -104,16 +104,20 @@ namespace LeetCodes
             //int[] arr = { 0, 3, 7, 2, 5, 8, 4, 6, 0, 1 };
             //obj.longestConsecutive(arr);
 
-            CourseSchedule obj = new CourseSchedule();
-            int[][] prerequisite = new int[][]
-            {
-                new int[] { 0, 1 },
-                new int[] { 0, 2 },
-                new int[] { 1,3 },
-                new int[] { 1,4 },
-                new int[] { 3,4 }
-            };
-            Console.WriteLine(obj.CanFinish(5, prerequisite));
+            //CourseSchedule obj = new CourseSchedule();
+            //int[][] prerequisite = new int[][]
+            //{
+            //    new int[] { 0, 1 },
+            //    new int[] { 0, 2 },
+            //    new int[] { 1,3 },
+            //    new int[] { 1,4 },
+            //    new int[] { 3,4 }
+            //};
+            //Console.WriteLine(obj.CanFinish(5, prerequisite));
+
+            TwoSumII obj = new TwoSumII();
+            int[] arr = { 1,5,7,9,9,13 };
+            obj.TwoSum(arr,22 );
 
 
         }
