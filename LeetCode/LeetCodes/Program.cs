@@ -115,9 +115,9 @@ namespace LeetCodes
             //};
             //Console.WriteLine(obj.CanFinish(5, prerequisite));
 
-            TwoSumII obj = new TwoSumII();
-            int[] arr = { 1,3,4,5,7,11 };
-            obj.TwoSumTwoPointer(arr, 9);
+            //TwoSumII obj = new TwoSumII();
+            //int[] arr = { 1,3,4,5,7,11 };
+            //obj.TwoSumTwoPointer(arr, 9);
 
 
             //LongestArithmeticSubsequenceofGivenDifference obj = new LongestArithmeticSubsequenceofGivenDifference();
