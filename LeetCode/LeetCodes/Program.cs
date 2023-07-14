@@ -115,9 +115,14 @@ namespace LeetCodes
             //};
             //Console.WriteLine(obj.CanFinish(5, prerequisite));
 
-            TwoSumII obj = new TwoSumII();
-            int[] arr = { 1,5,7,9,9,13 };
-            obj.TwoSum(arr,22 );
+            //TwoSumII obj = new TwoSumII();
+            //int[] arr = { 1,5,7,9,9,13 };
+            //obj.TwoSum(arr,22 );
+
+
+            LongestArithmeticSubsequenceofGivenDifference obj = new LongestArithmeticSubsequenceofGivenDifference();
+            int[] arr = { 1, 5, 7, 8, 5, 3, 4, 2, 1 };
+            obj.LongestSubsequenceDP(arr,-2);
 
 
         }
