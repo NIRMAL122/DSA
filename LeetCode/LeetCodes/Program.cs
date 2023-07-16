@@ -125,6 +125,20 @@ namespace LeetCodes
             //obj.LongestSubsequenceDP(arr,-2);
 
 
-        }
+            SmallestSufficientTeam obj = new SmallestSufficientTeam();
+            string[] reqSkills = { "java", "python", "c++" };
+            List<IList<string>> people = new List<IList<string>>
+            {
+                    new List<string> { "java", "c++" },
+                    new List<string> { "python" },
+                    new List<string> { "java", "python" },
+                    new List<string> { "c++" }
+            };
+
+            int[] team = obj.SmallestSufficientTeamFun(reqSkills, people);
+            Console.WriteLine("Smallest sufficient team: " + string.Join(", ", team));
+        
+
+    }
     }
 }
