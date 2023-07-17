@@ -125,18 +125,36 @@ namespace LeetCodes
             //obj.LongestSubsequenceDP(arr,-2);
 
 
-            SmallestSufficientTeam obj = new SmallestSufficientTeam();
-            string[] reqSkills = { "java", "python", "c++" };
-            List<IList<string>> people = new List<IList<string>>
-            {
-                    new List<string> { "java", "c++" },
-                    new List<string> { "python" },
-                    new List<string> { "java", "python" },
-                    new List<string> { "c++" }
-            };
+            //SmallestSufficientTeam obj = new SmallestSufficientTeam();
+            //string[] reqSkills = { "java", "python", "c++" };
+            //List<IList<string>> people = new List<IList<string>>
+            //{
+            //        new List<string> { "java", "c++" },
+            //        new List<string> { "python" },
+            //        new List<string> { "java", "python" },
+            //        new List<string> { "c++" }
+            //};
 
-            int[] team = obj.SmallestSufficientTeamFun(reqSkills, people);
-            Console.WriteLine("Smallest sufficient team: " + string.Join(", ", team));
+            //int[] team = obj.SmallestSufficientTeamFun(reqSkills, people);
+            //Console.WriteLine("Smallest sufficient team: " + string.Join(", ", team));
+
+            AddTwoNumbersII obj = new AddTwoNumbersII();
+            ListNode value1= new ListNode(3);
+             value1.next= new ListNode(9);
+             value1.next.next= new ListNode(9);
+             value1.next.next.next= new ListNode(9);
+             value1.next.next.next.next= new ListNode(9);
+             value1.next.next.next.next.next = new ListNode(9);
+             value1.next.next.next.next.next.next = new ListNode(9);
+             value1.next.next.next.next.next.next.next = new ListNode(9);
+             value1.next.next.next.next.next.next.next.next = new ListNode(9);
+             value1.next.next.next.next.next.next.next.next.next = new ListNode(9);
+
+            ListNode value2= new ListNode(7);
+            //value2.next= new ListNode(6);
+            //value2.next.next= new ListNode(4);
+
+            obj.AddTwoNumbersEff(value1, value2);
         
 
     }
