@@ -161,16 +161,20 @@ namespace LeetCodes
             //obj.MaxArea(arr);
 
 
-            LRUCache obj = new LRUCache(2);
-            obj.Put(1, 2);
-            obj.Put(2, 3);
-            Console.WriteLine(obj.Get(2));
-            obj.Put(3, 4);
-            Console.WriteLine(obj.Get(2));
-            Console.WriteLine(obj.Get(3));
-            obj.Put(4, 5);
-            Console.WriteLine(obj.Get(2));
-            Console.WriteLine(obj.Get(4));
+            //LRUCache obj = new LRUCache(2);
+            //obj.Put(1, 2);
+            //obj.Put(2, 3);
+            //Console.WriteLine(obj.Get(2));
+            //obj.Put(3, 4);
+            //Console.WriteLine(obj.Get(2));
+            //Console.WriteLine(obj.Get(3));
+            //obj.Put(4, 5);
+            //Console.WriteLine(obj.Get(2));
+            //Console.WriteLine(obj.Get(4));
+
+            ValidPalindrome obj= new ValidPalindrome();
+            bool answer=obj.IsPalindrome("abcdecba");
+            Console.WriteLine(answer);
 
     }
     }
