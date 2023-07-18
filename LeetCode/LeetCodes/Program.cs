@@ -156,9 +156,21 @@ namespace LeetCodes
 
             //obj.AddTwoNumbersEff(value1, value2);
 
-            ContainerWithMostWater obj= new ContainerWithMostWater();
-            int[] arr = { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
-            obj.MaxArea(arr);
+            //ContainerWithMostWater obj= new ContainerWithMostWater();
+            //int[] arr = { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
+            //obj.MaxArea(arr);
+
+
+            LRUCache obj = new LRUCache(2);
+            obj.Put(1, 2);
+            obj.Put(2, 3);
+            Console.WriteLine(obj.Get(2));
+            obj.Put(3, 4);
+            Console.WriteLine(obj.Get(2));
+            Console.WriteLine(obj.Get(3));
+            obj.Put(4, 5);
+            Console.WriteLine(obj.Get(2));
+            Console.WriteLine(obj.Get(4));
 
     }
     }
