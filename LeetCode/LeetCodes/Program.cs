@@ -172,9 +172,14 @@ namespace LeetCodes
             //Console.WriteLine(obj.Get(2));
             //Console.WriteLine(obj.Get(4));
 
-            ValidPalindrome obj= new ValidPalindrome();
-            bool answer=obj.IsPalindrome("abcdecba");
-            Console.WriteLine(answer);
+            //ValidPalindrome obj= new ValidPalindrome();
+            //bool answer=obj.IsPalindrome("abcdecba");
+            //Console.WriteLine(answer);
+
+
+            TrappingRainWater obj= new TrappingRainWater();
+            int[] arr = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
+            obj.Trap(arr);
 
     }
     }

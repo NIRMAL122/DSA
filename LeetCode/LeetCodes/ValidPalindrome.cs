@@ -12,7 +12,10 @@ namespace LeetCodes
         public bool IsPalindrome(string s)
         {
             string str = s.ToLower();
+            // removing non alphanumeric using Regex
             string str1 = Regex.Replace(str, @"[^a-zA-Z0-9]", "");
+            // removing non alphanumeric using Linq
+            //string str1 = new string(str.Where(char.IsLetterOrDigit).ToArray());
             Console.WriteLine(str1);
 
             int left = 0;
