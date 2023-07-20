@@ -181,18 +181,23 @@ namespace LeetCodes
             //int[] arr = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
             //obj.Trap(arr);
 
-            NonOverlappingIntervals obj= new NonOverlappingIntervals();
-            int[][] arr = new int[][]
-            {
-              new int[]{1,3 },
-              new int[]{3,5 },
-              new int[]{5,7 },
-              new int[]{7,8 },
-              new int[]{1,5 },
-              new int[]{5,6 },
-              new int[]{6,9 },
-            };
-            obj.EraseOverlapIntervals(arr);
+            //NonOverlappingIntervals obj= new NonOverlappingIntervals();
+            //int[][] arr = new int[][]
+            //{
+            //  new int[]{1,3 },
+            //  new int[]{3,5 },
+            //  new int[]{5,7 },
+            //  new int[]{7,8 },
+            //  new int[]{1,5 },
+            //  new int[]{5,6 },
+            //  new int[]{6,9 },
+            //};
+            //obj.EraseOverlapIntervals(arr);
+
+            AsteroidCollision obj= new AsteroidCollision();
+            //int[] arr = { 5, 10, -5 };
+            int[] arr = { -2,4,5,6,-3,-9 };
+            obj.AsteroidCollisonFun(arr);
         }
     }
 }
