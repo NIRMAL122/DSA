@@ -194,10 +194,10 @@ namespace LeetCodes
             //};
             //obj.EraseOverlapIntervals(arr);
 
-            AsteroidCollision obj= new AsteroidCollision();
-            //int[] arr = { 5, 10, -5 };
-            int[] arr = { -2,4,5,6,-3,-9 };
-            obj.AsteroidCollisonFun(arr);
+            //AsteroidCollision obj= new AsteroidCollision();
+            ////int[] arr = { 5, 10, -5 };
+            //int[] arr = { -2,4,5,6,-3,-9 };
+            //obj.AsteroidCollisonFun(arr);
         }
     }
 }
