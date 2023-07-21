@@ -8,7 +8,7 @@ namespace LeetCodes
 {
     public class NumberofLongestIncreasingSubsequence
     {
-        //yet to try out
+        //yet to try out before anything else
         public int FindNumberOfLIS(int[] nums)
         {
             // 1. O(n^2) Recursive solution with Caching
