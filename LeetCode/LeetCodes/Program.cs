@@ -198,6 +198,11 @@ namespace LeetCodes
             ////int[] arr = { 5, 10, -5 };
             //int[] arr = { -2,4,5,6,-3,-9 };
             //obj.AsteroidCollisonFun(arr);
+
+            
+            
+            
+            //try Number of Longest Increasing Subsequence before anything else
         }
     }
 }
