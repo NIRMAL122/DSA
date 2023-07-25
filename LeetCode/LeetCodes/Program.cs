@@ -204,9 +204,13 @@ namespace LeetCodes
             //Console.WriteLine(obj.MyPowGPT(1.00000, -2147483648));
 
 
-            PeakIndexinaMountainArray obj= new PeakIndexinaMountainArray();
-            int[] arr = { 0,1,3, 10, 5, 2 };
-            obj.PeakIndexInMountainArrayFun(arr);
+            //PeakIndexinaMountainArray obj= new PeakIndexinaMountainArray();
+            //int[] arr = { 0,1,3, 10, 5, 2 };
+            //obj.PeakIndexInMountainArrayFun(arr);
+
+
+            StarPattern obj = new StarPattern();
+            obj.triange();
 
 
             //try Number of Longest Increasing Subsequence before anything else
