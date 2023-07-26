@@ -210,7 +210,7 @@ namespace LeetCodes
 
 
             StarPattern obj = new StarPattern();
-            obj.triange();
+            obj.UKG();
 
 
             //try Number of Longest Increasing Subsequence before anything else

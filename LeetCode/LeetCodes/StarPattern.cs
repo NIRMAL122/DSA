@@ -60,5 +60,27 @@ namespace LeetCodes
                 Console.WriteLine();
             }
         }
+
+        public void UKG()
+        {
+            string str = "nirmal singh";
+            Dictionary<char, int> dict = new Dictionary<char, int>();
+            foreach(char c in str)
+            {
+                if (dict.ContainsKey(c))
+                {
+                    dict[c]++;
+                }
+                else
+                {
+                    dict.Add(c, 1);
+                }
+            }
+
+            foreach(KeyValuePair<char,int> kvp in dict)
+            {
+                Console.WriteLine("key= "+kvp.Key+" value= "+kvp.Value);
+            }
+        }
     }
 }
