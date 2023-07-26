@@ -199,7 +199,7 @@ namespace LeetCodes
             //int[] arr = { -2,4,5,6,-3,-9 };
             //obj.AsteroidCollisonFun(arr);
 
-            //Pow_x_n_ obj= new Pow_x_n_();
+            //Pow_x_n_ obj= new Pow_x_n_();       
             //obj.MyPowEff(1.00000, -2147483648);
             //Console.WriteLine(obj.MyPowGPT(1.00000, -2147483648));
 
