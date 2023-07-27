@@ -81,6 +81,10 @@ namespace LeetCodes
             {
                 Console.WriteLine("key= "+kvp.Key+" value= "+kvp.Value);
             }
+
+
+            double a = 4;
+            Console.WriteLine(Math.Floor(a));
         }
     }
 }

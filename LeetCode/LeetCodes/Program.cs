@@ -209,8 +209,12 @@ namespace LeetCodes
             //obj.PeakIndexInMountainArrayFun(arr);
 
 
-            StarPattern obj = new StarPattern();
-            obj.UKG();
+            //StarPattern obj = new StarPattern();
+            //obj.UKG();
+
+            MaximumRunningTimeofNComputers obj= new MaximumRunningTimeofNComputers();
+            int[] arr = {10,10,3,5 };
+            Console.WriteLine(obj.MaxRunTime(3, arr));
 
 
             //try Number of Longest Increasing Subsequence before anything else
