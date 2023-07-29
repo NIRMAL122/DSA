@@ -216,9 +216,12 @@ namespace LeetCodes
             //int[] arr = {10,10,3,5 };
             //Console.WriteLine(obj.MaxRunTime(3, arr));
 
-            PredicttheWinner obj= new PredicttheWinner();
-            int[] arr = { 1, 5, 233, 7 };
-            obj.PredictTheWinnerFun(arr);
+            //PredicttheWinner obj= new PredicttheWinner();
+            //int[] arr = { 1, 5, 233, 7 };
+            //obj.PredictTheWinnerFun(arr);
+
+            SoupServings obj= new SoupServings();
+            Console.WriteLine(obj.SoupServingsFun(100));
 
 
             //try Number of Longest Increasing Subsequence before anything else
