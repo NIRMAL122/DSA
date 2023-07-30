@@ -220,8 +220,8 @@ namespace LeetCodes
             //int[] arr = { 1, 5, 233, 7 };
             //obj.PredictTheWinnerFun(arr);
 
-            SoupServings obj= new SoupServings();
-            Console.WriteLine(obj.SoupServingsFun(100));
+            //SoupServings obj= new SoupServings();
+            //Console.WriteLine(obj.SoupServingsFun(100));
 
 
             //try Number of Longest Increasing Subsequence before anything else
