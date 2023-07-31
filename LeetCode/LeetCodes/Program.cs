@@ -223,6 +223,9 @@ namespace LeetCodes
             //SoupServings obj= new SoupServings();
             //Console.WriteLine(obj.SoupServingsFun(100));
 
+            MinimumASCIIDeleteSumforTwoStrings obj = new MinimumASCIIDeleteSumforTwoStrings();
+            obj.MinimumDeleteSum("delete", "leet");
+
 
             //try Number of Longest Increasing Subsequence before anything else
         }
