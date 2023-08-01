@@ -223,8 +223,12 @@ namespace LeetCodes
             //SoupServings obj= new SoupServings();
             //Console.WriteLine(obj.SoupServingsFun(100));
 
-            MinimumASCIIDeleteSumforTwoStrings obj = new MinimumASCIIDeleteSumforTwoStrings();
-            obj.MinimumDeleteSum("delete", "leet");
+            //MinimumASCIIDeleteSumforTwoStrings obj = new MinimumASCIIDeleteSumforTwoStrings();
+            //obj.MinimumDeleteSum("delete", "leet");
+
+            CanPlaceFlowers obj = new CanPlaceFlowers();
+            int[] arr= {0,1,0 };
+            Console.WriteLine(obj.CanPlaceFlowersFun(arr, 1));
 
 
             //try Number of Longest Increasing Subsequence before anything else
