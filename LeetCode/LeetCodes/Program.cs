@@ -233,6 +233,9 @@ namespace LeetCodes
             //MergeStringsAlternately obj= new MergeStringsAlternately();
             //obj.MergeAlternately("abcdefg", "mno");
 
+            ReverseVowelsofaString obj= new ReverseVowelsofaString();
+            obj.ReverseVowels("nirmal");
+
 
             //try Number of Longest Increasing Subsequence before anything else
         }
