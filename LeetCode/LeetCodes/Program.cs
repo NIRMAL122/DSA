@@ -230,8 +230,8 @@ namespace LeetCodes
             //int[] arr= {0,1,0 };
             //Console.WriteLine(obj.CanPlaceFlowersFun(arr, 1));
 
-            MergeStringsAlternately obj= new MergeStringsAlternately();
-            obj.MergeAlternately("abcdefg", "mno");
+            //MergeStringsAlternately obj= new MergeStringsAlternately();
+            //obj.MergeAlternately("abcdefg", "mno");
 
 
             //try Number of Longest Increasing Subsequence before anything else
