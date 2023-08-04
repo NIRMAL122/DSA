@@ -236,7 +236,7 @@ namespace LeetCodes
             ReverseVowelsofaString obj= new ReverseVowelsofaString();
             obj.ReverseVowels("nirmal");
 
-
+            Console.WriteLine("leetcode");
 
 
             //try Number of Longest Increasing Subsequence before anything else
