@@ -233,11 +233,17 @@ namespace LeetCodes
             //MergeStringsAlternately obj= new MergeStringsAlternately();
             //obj.MergeAlternately("abcdefg", "mno");
 
-            ReverseVowelsofaString obj= new ReverseVowelsofaString();
-            obj.ReverseVowels("nirmal");
+            //ReverseVowelsofaString obj= new ReverseVowelsofaString();
+            //obj.ReverseVowels("nirmal");
 
-            Console.WriteLine("leetcode1");
-            Console.WriteLine("leetcode2");
+            Search2DMatrix obj=new Search2DMatrix();
+            int[][] matrix = new int[3][];
+            matrix[0]= new int[] { 1, 3, 5, 7 };
+            matrix[1]= new int[] { 10, 11, 16, 20 };
+            matrix[2]= new int[] { 23, 30, 34, 60 };
+            obj.SearchMatrix(matrix, 12);
+
+
 
 
             //try Number of Longest Increasing Subsequence before anything else
