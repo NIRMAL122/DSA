@@ -243,9 +243,13 @@ namespace LeetCodes
             //matrix[2]= new int[] { 23, 30, 34, 60 };
             //obj.SearchMatrix(matrix, 12);
 
-            ReverseWordsinaString obj= new ReverseWordsinaString();
-            obj.ReverseWords("this is leetcode problem");
+            //ReverseWordsinaString obj= new ReverseWordsinaString();
+            //obj.ReverseWords("this is leetcode problem");
 
+
+            SearchinRotatedSortedArray obj= new SearchinRotatedSortedArray();
+            int[] arr = { 4, 5, 6, 0, 1, 2, 3 };
+            obj.Search(arr, 6);
 
 
 

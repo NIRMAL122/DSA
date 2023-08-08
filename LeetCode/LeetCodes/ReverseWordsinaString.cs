@@ -9,7 +9,7 @@ namespace LeetCodes
 {
     public class ReverseWordsinaString
     {
-        public void ReverseWords(string s)
+        public void ReverseWords(string s) 
         {
             string[] words = s.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             Array.Reverse(words);
