@@ -247,9 +247,9 @@ namespace LeetCodes
             //obj.ReverseWords("this is leetcode problem");
 
 
-            //SearchinRotatedSortedArray obj= new SearchinRotatedSortedArray();
-            //int[] arr = { 4, 5, 6, 0, 1, 2, 3 };
-            //obj.Search(arr, 6);
+            SearchinRotatedSortedArray obj = new SearchinRotatedSortedArray();
+            int[] arr = { 2, 5, 6, 0, 0, 1, 2 };
+            obj.Search(arr, 3);
 
 
 

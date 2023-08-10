@@ -13,7 +13,15 @@ namespace LeetCodes
             Dictionary<int, int> dict = new Dictionary<int, int>();
             for (int i = 0; i < nums.Length; i++)
             {
-                dict.Add(nums[i], i);
+                if (dict.ContainsKey(nums[i]))
+                {
+                    continue;
+                }
+                else
+                {
+
+                    dict.Add(nums[i], i);
+                }
             }
 
             foreach (KeyValuePair<int, int> kvp in dict)
