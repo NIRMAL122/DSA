@@ -247,9 +247,13 @@ namespace LeetCodes
             //obj.ReverseWords("this is leetcode problem");
 
 
-            SearchinRotatedSortedArray obj = new SearchinRotatedSortedArray();
-            int[] arr = { 2, 5, 6, 0, 0, 1, 2 };
-            obj.Search(arr, 3);
+            //SearchinRotatedSortedArray obj = new SearchinRotatedSortedArray();
+            //int[] arr = { 2, 5, 6, 0, 0, 1, 2 };
+            //obj.Search(arr, 3);
+
+            CoinChangeII obj = new CoinChangeII();
+            int[] arr = { 1, 2, 5 };
+            Console.WriteLine(obj.Change(5,arr));
 
 
 
