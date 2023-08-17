@@ -251,9 +251,13 @@ namespace LeetCodes
             //int[] arr = { 2, 5, 6, 0, 0, 1, 2 };
             //obj.Search(arr, 3);
 
-            CoinChangeII obj = new CoinChangeII();
-            int[] arr = { 1, 2, 5 };
-            Console.WriteLine(obj.Change(5,arr));
+            //CoinChangeII obj = new CoinChangeII();
+            //int[] arr = { 1, 2, 5 };
+            //Console.WriteLine(obj.Change(5,arr));
+
+            MaximumProductSubarray obj= new MaximumProductSubarray();
+            int[] arr = { 2, 3, -2, 4 };
+            obj.MaxProduct(arr);
 
 
 
