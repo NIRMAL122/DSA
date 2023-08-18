@@ -10,23 +10,22 @@ namespace LeetCodes
     {
         public void MaxProduct(int[] nums)
         {
-            int product = 0;
-            int tempProduct = 1;
+            var maxProduct = nums.Max();
+            //Console.WriteLine(maxProduct);
+            int curMin = 1; 
+            int curMax = 1;
 
-            if (nums.Length == 1)
+            foreach (var n in nums)
             {
-                Console.WriteLine(nums[0]);
-                return;
+                var tmp = curMax * n;
+
+                curMax = new int[] { n, n * curMin, n * curMax }.Max();
+                curMin = new int[] { n, n * curMin, tmp }.Min();
+
+                maxProduct = Math.Max(maxProduct, curMax);
             }
 
-            for (int i=0;i<nums.Length;i++)
-            {
-                tempProduct= tempProduct * nums[i];
-                if(tempProduct>product) { product = tempProduct; }
-                else { tempProduct = 1; }
-            }
-
-            Console.WriteLine(product);
+            Console.WriteLine(maxProduct);
         }
     }
 }

@@ -256,7 +256,7 @@ namespace LeetCodes
             //Console.WriteLine(obj.Change(5,arr));
 
             MaximumProductSubarray obj= new MaximumProductSubarray();
-            int[] arr = {-2 };
+            int[] arr = { 2, 3, -2, 4 };
             obj.MaxProduct(arr);
 
 
