@@ -259,9 +259,13 @@ namespace LeetCodes
             //int[] arr = { 2, 3, -2, 4 };
             //obj.MaxProduct(arr);
 
+            ReplaceVowelsWithStar obj= new ReplaceVowelsWithStar();
+            obj.Fun("Nirmal Singh");
 
 
-            
+
+
+
         }
     }
 }
