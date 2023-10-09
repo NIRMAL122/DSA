@@ -259,13 +259,41 @@ namespace LeetCodes
             //int[] arr = { 2, 3, -2, 4 };
             //obj.MaxProduct(arr);
 
-            ReplaceVowelsWithStar obj= new ReplaceVowelsWithStar();
-            obj.Fun("Nirmal Singh");
+            //ReplaceVowelsWithStar obj= new ReplaceVowelsWithStar();
+            //obj.Fun("Nirmal Singh");
+
+
+            //ReverseVowelsofaString obj=new ReverseVowelsofaString();
+
+            //obj.ReverseVowelsII("hello World");
+
+            parent obj = new child();
+            obj.print();
+
+            child obj1 = new child();
+            obj1.print();
 
 
 
 
+        }
 
+        class parent
+        {
+            int a = 10;
+            public  void print()
+            {
+                Console.WriteLine("parent");
+            }
+        }
+
+        class child : parent
+        {
+            int b = 0;
+            public  void print()
+            {
+                Console.WriteLine("child");
+            }
         }
     }
 }

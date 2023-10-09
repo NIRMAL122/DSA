@@ -28,5 +28,45 @@ namespace LeetCodes
 
             Console.WriteLine(res);
         }
+
+
+        public void ReverseVowelsII(string s)
+        {
+            string vowels = "AEIOUaeiou";
+
+            
+
+            StringBuilder vow = new StringBuilder();
+            StringBuilder result = new StringBuilder();
+
+            foreach(char c in s)
+            {
+                if (vowels.Contains(c))
+                {
+
+                    vow.Append(c);
+                }
+            }
+
+            var a = vow.ToString().Reverse().ToArray();
+            int i = 0;
+            
+            foreach(char c in s)
+            {
+                if(vowels.Contains(c))
+                {
+                    result.Append(a[i]);
+                    i++;
+                }
+                else
+                {
+
+                    result.Append(c);
+                }
+            }
+
+            Console.WriteLine(result);
+
+        }
     }
 }
